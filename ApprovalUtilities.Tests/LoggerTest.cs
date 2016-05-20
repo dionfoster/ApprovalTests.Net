@@ -1,7 +1,7 @@
 ﻿using System;
 using ApprovalTests;
 using ApprovalTests.Reporters;
-using ApprovalTests.Utilities;
+using ApprovalTests.Scrubber;
 using ApprovalUtilities.Persistence;
 using ApprovalUtilities.SimpleLogger;
 using ApprovalUtilities.Utilities;

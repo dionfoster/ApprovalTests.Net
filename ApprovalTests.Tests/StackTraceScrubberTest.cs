@@ -1,4 +1,4 @@
-﻿using ApprovalTests.Utilities;
+﻿using ApprovalTests.Scrubber;
 using NUnit.Framework;
 
 namespace ApprovalTests.Tests

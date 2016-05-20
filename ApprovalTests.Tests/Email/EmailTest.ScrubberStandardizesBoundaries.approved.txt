@@ -1,0 +1,6 @@
+﻿Content-Type: multipart/mixed; boundary=--boundary_1_--boundary_0_00000000-0000-0000-0000-000000000000
+
+
+----boundary_1_--boundary_0_00000000-0000-0000-0000-000000000000
+Content-Type: multipart/alternative; boundary=--boundary_0_--boundary_1_00000000-0000-0000-0000-000000000001
+

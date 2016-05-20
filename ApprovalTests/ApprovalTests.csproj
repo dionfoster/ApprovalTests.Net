@@ -133,6 +133,9 @@
     </Compile>
     <Compile Include="Asp\MovedToSeperateNugetPackage.cs" />
     <Compile Include="Async\AsyncApprovals.cs" />
+    <Compile Include="Scrubber\EmailBoundaryScrubber.cs" />
+    <Compile Include="Scrubber\ScrubberNotRegisteredException.cs" />
+    <Compile Include="Scrubber\ScrubberProvider.cs" />
     <Compile Include="Combinations\CombinationApprovals.cs" />
     <Compile Include="Core\IApprovalReporterWithCleanUp.cs" />
     <Compile Include="Core\Approver.cs" />
@@ -230,7 +233,7 @@
     <Compile Include="TheoryTests\ThreadSafteyTheory.cs" />
     <Compile Include="Utilities\OSUtils.cs" />
     <Compile Include="Utilities\ParentProcessUtils.cs" />
-    <Compile Include="Utilities\StackTraceScrubber.cs" />
+    <Compile Include="Scrubber\StackTraceScrubber.cs" />
     <Compile Include="StatePrinter\StatePrinterApprovals.cs" />
     <Compile Include="TheoryTests\SerializableTheory.cs" />
     <Compile Include="Utilities\StringReporting.cs" />
